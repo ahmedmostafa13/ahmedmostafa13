@@ -1,4 +1,4 @@
-# 👋 Welcome to Ahmed Mustafa's GitHub Profile!
+# 👋 Hi there! I'm Ahmed Mustafa – Java Backend Developer
 
 Hi, I'm **Ahmed Mustafa**, a passionate Java Developer from 6th of October, Egypt. I specialize in building scalable backend systems using Java and Spring, with a focus on clean code and efficient solutions. Currently, I'm sharpening my skills through a Java Mentorship program, working on real-world projects like the Vacation Tracking System.
 
@@ -26,7 +26,7 @@ Hi, I'm **Ahmed Mustafa**, a passionate Java Developer from 6th of October, Egyp
   *Tech Stack*: Java, Spring Framework, Maven
 
 - **[Vacation Tracking System](https://github.com/ahmedmostafa13/Vacation-Tracking-System)**  
-  Aى application developed during my Java Mentorship program to streamline employee vacation management. Features include vacation request submission, approval/rejection workflows, email notifications, Web Service API, and integration with legacy HR systems. The system ensures usability, security (via SSO), and compliance with company policies.  
+  An application developed during my Java Mentorship program to streamline employee vacation management. Features include vacation request submission, approval/rejection workflows, email notifications, Web Service API, and integration with legacy HR systems. The system ensures usability, security (via SSO), and compliance with company policies.  
 
 ## 📚 Current Learning & Mentorship
 
