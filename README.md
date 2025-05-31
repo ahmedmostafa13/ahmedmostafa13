@@ -39,7 +39,7 @@ Hi, I'm **Ahmed Mustafa**, a passionate Java Developer from 6th of October, Egyp
 ## 📬 Get in Touch
 
 - 💼 LinkedIn: [linkedin.com/in/ahmed-m-5b1a94105](https://linkedin.com/in/ahmed-m-5b1a94105)
-- 📧 Email: [ahmedazab122@example.com](mailto:ahmedazab122@gmail.com)
+- 📧 Email: [ahmedazab122@gmail.com](mailto:ahmedazab122@gmail.com)
 
 ## 🌟 What's Next?
 
