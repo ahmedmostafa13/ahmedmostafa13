@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ahmed Mustafa – Java Backend Developer
 
-Hi, I'm **Ahmed Mustafa**, a passionate Java Developer from 6th of October, Egypt. I specialize in building scalable backend systems using Java and Spring, with a focus on clean code and efficient solutions. Currently completing a Java Mentorship program where I'm building enterprise-level projects like the Vacation Tracking System.
+Hi, I'm **Ahmed Mustafa**, a passionate Java Developer from 6th of October, Egypt. I specialize in building scalable backend systems using Java and Spring, with a focus on clean code and efficient solutions. Currently completing a Java Mentorship program where I'm building enterprise-level projects.
 ---
 
 ## 🔍 About Me
